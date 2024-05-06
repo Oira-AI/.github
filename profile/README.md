@@ -7,7 +7,7 @@ At Oira, we are on a mission to democratize access to Artificial Intelligence fo
 ### Text-to-Speech (TTS) Models:
 Experience the power of natural and expressive speech synthesis with our advanced Text-to-Speech models. Whether you're creating educational content, enhancing accessibility, or developing innovative applications, our TTS models are here to bring your ideas to life. Currently available in German and English.
 
-### Language Detection:
+### Natural Language Processing:
 Break language barriers effortlessly with our robust Language Detection tool. Seamlessly identify and analyze the language of any text, facilitating effective communication and understanding across diverse linguistic landscapes.
 
 ### Large Language Model:
